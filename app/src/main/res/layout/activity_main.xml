@@ -9,6 +9,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_margin="5sp"
         android:orientation="vertical">
 
         <LinearLayout
@@ -28,7 +29,8 @@
         <LinearLayout
             android:id="@+id/lyUsuarioRegistrado"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
             android:orientation="horizontal">
 
             <Button
@@ -43,13 +45,40 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/lyInvitado"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"></LinearLayout>
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btInvitado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:layout_weight="1"
+                android:backgroundTint="@android:color/holo_orange_light"
+                android:text="@string/btInvitado"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/lySalir"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="horizontal"></LinearLayout>
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btSalir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/black"
+                android:text="@string/btSalir"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
