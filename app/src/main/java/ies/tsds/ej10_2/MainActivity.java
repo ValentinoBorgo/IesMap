@@ -33,7 +33,16 @@ public class MainActivity extends AppCompatActivity {
                 accionBotonUsuarioRegistrado();
             }
         });
-   }
+
+        Button btInvitado = (Button) findViewById(R.id.btInvitado);
+        btInvitado.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                accionBotonInvitado();
+            }
+        });
+
+    }
 
     private void accionBotonUsuarioRegistrado() {
         Intent loginActivity = new Intent(this, LoginActivity.class);
@@ -43,4 +52,12 @@ public class MainActivity extends AppCompatActivity {
     private void accionBotonSalir() {
         finish();
     }
+
+
+    private void accionBotonInvitado() {
+        Intent navigationActivity =
+                new Intent(this, NavigationActivity.class);
+        startActivity(navigationActivity);
+    }
+
 }

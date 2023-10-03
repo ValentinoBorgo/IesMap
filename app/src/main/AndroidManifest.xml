@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ej10_2">
         <activity
+            android:name=".NavigationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/Theme.Ej10_2.NoActionBar" />
+        <activity
             android:name=".ui.login.LoginActivity"
             android:exported="false" />
         <activity
