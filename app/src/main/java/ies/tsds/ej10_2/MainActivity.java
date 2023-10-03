@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(loginActivity);
     }
 
-
     private void accionBotonSalir() {
         finish();
     }
