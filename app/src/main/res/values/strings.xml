@@ -3,4 +3,12 @@
     <string name="btUsuarioRegistrado">Usuario Registrado</string>
     <string name="btInvitado">Invitado</string>
     <string name="btSalir">Salir</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"¡Bienvenido! "</string>
+    <string name="invalid_username">El nombre de usuario no es válido</string>
+    <string name="invalid_password">La contraseña debe tener al menos 3 caracteres</string>
+    <string name="login_failed">"Ingreso Incorrecto"</string>
 </resources>
