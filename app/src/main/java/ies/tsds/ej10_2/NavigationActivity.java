@@ -25,6 +25,9 @@ public class NavigationActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        Bundle bundle = getIntent().getExtras();
+        String usuario = bundle.getString("Usuario");
+
         binding = ActivityNavigationBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
@@ -46,6 +49,12 @@ public class NavigationActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_navigation);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
+        Menu miMenu= navigationView.getMenu();
+        if (usuario.equals("No registrado")){
+            miMenu.findItem(R.id.nav_gallery).setEnabled(false);
+            miMenu.findItem(R.id.nav_slideshow).setEnabled(false);
+        }
+
     }
 
     @Override

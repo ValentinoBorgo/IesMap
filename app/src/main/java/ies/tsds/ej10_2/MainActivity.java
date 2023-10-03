@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
     private void accionBotonInvitado() {
         Intent navigationActivity =
                 new Intent(this, NavigationActivity.class);
+        navigationActivity.putExtra("Usuario","No registrado");
         startActivity(navigationActivity);
     }
 
