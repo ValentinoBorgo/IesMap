@@ -3,6 +3,7 @@ package ies.tsds.ej10_2;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
+import android.widget.TextView;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -53,6 +54,13 @@ public class NavigationActivity extends AppCompatActivity {
         if (usuario.equals("No registrado")){
             miMenu.findItem(R.id.nav_gallery).setEnabled(false);
             miMenu.findItem(R.id.nav_slideshow).setEnabled(false);
+        }
+
+        TextView tvUsuarioAEnviar = (TextView) findViewById(R.id.tvUsuarioGeneral);
+        tvUsuarioAEnviar.setText(usuario);
+        TextView tvUsuario = (TextView) findViewById(R.id.tvUsuario);
+        if (tvUsuario.getText().equals("Usuario: ")) {
+            tvUsuario.setText(tvUsuario.getText().toString() + usuario);
         }
 
     }

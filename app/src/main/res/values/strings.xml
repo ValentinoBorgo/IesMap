@@ -22,4 +22,7 @@
     <string name="menu_home">Datos Actuales</string>
     <string name="menu_gallery">Visualizar Texto</string>
     <string name="menu_slideshow">Donde Estoy</string>
+
+    <string name="tvHora">Hora:</string>
+
 </resources>
