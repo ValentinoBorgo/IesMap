@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ej10_2</string>
+    <string name="btUsuarioRegistrado">Usuario Registrado</string>
+    <string name="btInvitado">Invitado</string>
+    <string name="btSalir">Exit</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"¡Bienvenido! "</string>
+    <string name="invalid_username">El nombre de usuario no es válido</string>
+    <string name="invalid_password">La contraseña debe tener al menos 3 caracteres</string>
+    <string name="login_failed">"Ingreso Incorrecto"</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Datos Actuales</string>
+    <string name="menu_gallery">Visualizar Texto</string>
+    <string name="menu_slideshow">Donde Estoy</string>
+
+    <string name="tvHora">Hora:</string>
+    <string name="tvSoloLePidoADios">\n
+ Just ask God\n\n
+ Just ask God\n
+ That pain can not be indifferent to me\n
+ That death does not find me dry\n
+ Cow and one without having done enough.\n\n
+ Just ask God\n
+ Let me no wrong to be indifferent\n
+ I did not slap the other cheek\n
+ A claw Despus arae me luck.\n\n
+ Just ask God\n
+ That war did not indifferent\n
+ It\'s a big monster stomps\n
+ All the poor innocence of people.\n\n
+ Just ask God\n
+ That deception is indifferent I\n
+ If a traitor can more than a few\n
+ That those few do not forget easily.\n\n
+ Just ask God\n
+ The future will not be indifferent to me\n
+ Wretched is he who has to leave\n
+ To live a different culture.\n\n
+ Just ask God\n
+ That war did not indifferent\n
+ It\'s a big monster stomps\n
+ All the poor innocence of people.\n</string>
+
+</resources>
