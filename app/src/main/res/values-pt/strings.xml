@@ -2,7 +2,7 @@
     <string name="app_name">Ej10_2</string>
     <string name="btUsuarioRegistrado">Usuario Registrado</string>
     <string name="btInvitado">Invitado</string>
-    <string name="btSalir">Salir</string>
+    <string name="btSalir">Saia</string>
     <string name="prompt_email">Usuario</string>
     <string name="prompt_password">Contraseña</string>
     <string name="action_sign_in">Ingresar</string>
@@ -25,30 +25,29 @@
 
     <string name="tvHora">Hora:</string>
     <string name="tvSoloLePidoADios">\n
-        Sólo le pido a Dios\n\n
-        Sólo le pido a Dios\n
-        que el dolor no me sea indiferente,\n
-        que la reseca muerte no me encuentre\n
-        vacío y solo sin haber hecho lo suficiente.\n\n
-        Sólo le pido a Dios\n
-        que lo injusto no me sea indiferente,\n
-        que no me abofeteen la otra mejilla\n
-        después que una garra me arañó esta suerte.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n\n
-        Sólo le pido a Dios\n
-        que el engaño no me sea indiferente\n
-        si un traidor puede más que unos cuantos,\n
-        que esos cuantos no lo olviden fácilmente.\n\n
-        Sólo le pido a Dios\n
-        que el futuro no me sea indiferente,\n
-        desahuciado está el que tiene que marchar\n
-        a vivir una cultura diferente.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n</string>
-
+    Só peço a Deus\n\n
+    Só peço a Deus\n
+    Que a dor não me seja indiferente\n
+    Que a ressequida morte não me encontre\n
+    Vazia e só sem haver feito o suficiente.\n\n
+    Só peço a Deus\n
+    Que o injusto não me seja indiferente\n
+    Que não me esbofeteiem a outra bochecha\n
+     Depois que uma garra me aranhou esta sorte.\n\n
+     Só peço a Deus\n
+     Que a guerra não me seja indiferente\n
+     É um grande monstro e pisa forte\n
+     Toda a pobre inocência do povo.\n\n
+     Só peço a Deus\n
+     Que o engano não me seja indiferente\n
+     Se um traidor pode mais que alguns\n
+     Que esses alguns não o esqueçam facilmente.\n\n
+     Só peço a Deus\n
+     Que o futuro não me seja indiferente\n
+     Despejado está o que tem que caminhar\n
+     A viver uma cultura diferente.\n\n
+     Só peço a Deus\n
+     Que a guerra não me seja indiferente\n
+     É um grande monstro e pisa forte\n
+     Toda a pobre inocência do povo.\n</string>
 </resources>

@@ -2,7 +2,7 @@
     <string name="app_name">Ej10_2</string>
     <string name="btUsuarioRegistrado">Usuario Registrado</string>
     <string name="btInvitado">Invitado</string>
-    <string name="btSalir">Salir</string>
+    <string name="btSalir">Exit</string>
     <string name="prompt_email">Usuario</string>
     <string name="prompt_password">Contraseña</string>
     <string name="action_sign_in">Ingresar</string>
@@ -25,30 +25,30 @@
 
     <string name="tvHora">Hora:</string>
     <string name="tvSoloLePidoADios">\n
-        Sólo le pido a Dios\n\n
-        Sólo le pido a Dios\n
-        que el dolor no me sea indiferente,\n
-        que la reseca muerte no me encuentre\n
-        vacío y solo sin haber hecho lo suficiente.\n\n
-        Sólo le pido a Dios\n
-        que lo injusto no me sea indiferente,\n
-        que no me abofeteen la otra mejilla\n
-        después que una garra me arañó esta suerte.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n\n
-        Sólo le pido a Dios\n
-        que el engaño no me sea indiferente\n
-        si un traidor puede más que unos cuantos,\n
-        que esos cuantos no lo olviden fácilmente.\n\n
-        Sólo le pido a Dios\n
-        que el futuro no me sea indiferente,\n
-        desahuciado está el que tiene que marchar\n
-        a vivir una cultura diferente.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n</string>
+ Just ask God\n\n
+ Just ask God\n
+ That pain can not be indifferent to me\n
+ That death does not find me dry\n
+ Cow and one without having done enough.\n\n
+ Just ask God\n
+ Let me no wrong to be indifferent\n
+ I did not slap the other cheek\n
+ A claw Despus arae me luck.\n\n
+ Just ask God\n
+ That war did not indifferent\n
+ It\'s a big monster stomps\n
+ All the poor innocence of people.\n\n
+ Just ask God\n
+ That deception is indifferent I\n
+ If a traitor can more than a few\n
+ That those few do not forget easily.\n\n
+ Just ask God\n
+ The future will not be indifferent to me\n
+ Wretched is he who has to leave\n
+ To live a different culture.\n\n
+ Just ask God\n
+ That war did not indifferent\n
+ It\'s a big monster stomps\n
+ All the poor innocence of people.\n</string>
 
 </resources>

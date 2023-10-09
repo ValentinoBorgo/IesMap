@@ -2,7 +2,7 @@
     <string name="app_name">Ej10_2</string>
     <string name="btUsuarioRegistrado">Usuario Registrado</string>
     <string name="btInvitado">Invitado</string>
-    <string name="btSalir">Salir</string>
+    <string name="btSalir">Sortir</string>
     <string name="prompt_email">Usuario</string>
     <string name="prompt_password">Contraseña</string>
     <string name="action_sign_in">Ingresar</string>
@@ -25,30 +25,29 @@
 
     <string name="tvHora">Hora:</string>
     <string name="tvSoloLePidoADios">\n
-        Sólo le pido a Dios\n\n
-        Sólo le pido a Dios\n
-        que el dolor no me sea indiferente,\n
-        que la reseca muerte no me encuentre\n
-        vacío y solo sin haber hecho lo suficiente.\n\n
-        Sólo le pido a Dios\n
-        que lo injusto no me sea indiferente,\n
-        que no me abofeteen la otra mejilla\n
-        después que una garra me arañó esta suerte.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n\n
-        Sólo le pido a Dios\n
-        que el engaño no me sea indiferente\n
-        si un traidor puede más que unos cuantos,\n
-        que esos cuantos no lo olviden fácilmente.\n\n
-        Sólo le pido a Dios\n
-        que el futuro no me sea indiferente,\n
-        desahuciado está el que tiene que marchar\n
-        a vivir una cultura diferente.\n\n
-        Sólo le pido a Dios\n
-        que la guerra no me sea indiferente,\n
-        es un monstruo grande y pisa fuerte\n
-        toda la pobre inocencia de la gente.\n</string>
-
+ Je demande seulement à Dieu\n\n
+ Je demande seulement à Dieu\n
+ Que la douleur ne me soit pas indifférente,\n
+ Que la mort sèche ne me trouve pas\n
+ Vide et seule, sans avoir fait suffisamment.\n\n
+ Je demande seulement à Dieu\n
+ Que l\'injustice ne me soit pas indifférente,\n
+ Que l\'on ne me gifle pas l\'autre joue,\n
+ Après qu\'une griffe m\'ait éraflé cette chance.\n\n
+ Je demande seulement à Dieu\n
+ Que la guerre ne me soit pas indifférente,\n
+ C\'est un gros monstre qui écrase\n
+ Toute la pauvre innocence des gens.\n\n
+ Je demande seulement à Dieu\n
+ Que le mensonge ne me soit pas indifférent,\n
+ Si un traître peut plus que quelques uns,\n
+ Que ces quelques uns ne l\'oublient pas facilement.\n\n
+ Je demande seulement à Dieu\n
+ Que le futur ne me soit pas indifférent,\n
+ Condamné est celui qui doit partir\n
+ Vivre une culture différente.\n\n
+ Je demande seulement à Dieu\n
+ Que la guerre ne me soit pas indifférente,\n
+ C\'est un gros monstre qui écrase\n
+ Toute la pauvre innocence des gens.\n</string>
 </resources>
